@@ -1,0 +1,21 @@
+# Build outputs
+bin/
+
+# Downloaded data
+downloads/
+
+# Generated database
+commons.db
+
+# Logs
+skipped_votes.log
+
+# Editor swap files
+*.swp
+*.swo
+*.bak
+
+# Go build artifacts
+*.exe
+*.test
+*.out
